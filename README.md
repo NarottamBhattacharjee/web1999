@@ -1,2 +1,2 @@
 # web1999
-Web Content of Narottam Bhattacharjee
+This content is design by Narottam Bhattacharjee for the purpose of Web Content
